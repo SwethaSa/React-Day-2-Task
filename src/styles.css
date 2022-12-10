@@ -1,0 +1,43 @@
+.navtitle {
+  margin-left: 14cm;
+}
+
+.navtext {
+  font-size: 55px;
+  font-weight: bolder;
+  align-items: center;
+  color: white;
+}
+.navtext2 {
+  font-size: large;
+  text-align: center;
+}
+.blacknav {
+  height: 7cm;
+  background-color: #900c3f;
+}
+.copynav {
+  height: 4cm;
+  background-color: #900c3f;
+}
+.copyright {
+  color: white;
+  margin-left: 16cm;
+}
+.productimage {
+  height: 250px;
+  width: 280px;
+}
+.pricing {
+  margin: 10px;
+}
+.rating {
+  margin-left: 5px;
+  margin-top: 1px;
+}
+
+.line {
+  text-decoration: line-through;
+  margin-right: 5px;
+  font-size: initial;
+}
